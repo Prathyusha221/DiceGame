@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+audio{
+  display: none;
+}
+
+.heading{
+  margin: 30px;
+  font-family: 'Arial Narrow', cursive;
+  text-shadow: 5px 0 lightyellow;
+  font-size: 6rem;
+  color:yellow;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+p {
+  font-size: 2rem;
+  color:chartreuse;
+  font-family: 'Indie Flower', cursive;
+}
+
+#dice1{
+    padding-right: 10%;
+    width:90%;
+}
+
+#dice2{
+    padding-left: 10%;
+    width:90%
+}
+
+button{
+  border-radius: 12px;
+  background-color: aqua;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-size: 2rem;
+  align-self: center;
+}
+
+footer{
+    margin-top: 10%;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium';
+}
