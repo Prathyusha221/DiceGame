@@ -1,6 +1,7 @@
 # dicegame
 A simple Dice Game between two players.
 This game is designed using:
+
 ![html_css_js_logo](https://user-images.githubusercontent.com/65334227/184535309-e3d9d43d-179e-4a88-bdea-182eb4a1ab26.png)
 
 View Page @ https://prathyusha221.github.io/dicegame/Dice_Game/index.html
